@@ -10,6 +10,6 @@ The implementation of the work is provided in Implementation folder in the form 
 The paper derived from the work is also provided.
 Work done under the guidance of Dr. Annapurna P Patil
 
-We are a team of four-
-Ashwin H, Kaushik Singh, Keerthana Purushottham, Ananya Pramod
+<b><i>We are a team of four-
+  Ashwin H, Kaushik Singh, Keerthana Purushottham, Ananya Pramod</i></b>
 
