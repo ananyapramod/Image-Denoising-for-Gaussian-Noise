@@ -8,7 +8,7 @@ At a prime age in data science where information extracted from a large variety 
 The implementation of the work is provided in Implementation folder in the form of python notebooks. The outputs associated with the code cells are also shown.
 Proposed approach has been performed on benchmark datasets- MNIST and CIFAR10
 
-The paper derived from the work is also provided.
+You can find all python notebooks related to work here https://drive.google.com/drive/folders/1qOvziqncZ6gUbPSXmXfgGW66npgD2zI8
 Work done under the guidance of Dr. Annapurna P Patil
 
 <b><i>We are a team of four-
